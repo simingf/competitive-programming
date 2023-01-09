@@ -1,0 +1,8 @@
+.catalyst/
+.temp/
+.vscode/
+*.exe
+*.cpp
+!Reading/*
+!Saved_Problems/*
+!Template/*
