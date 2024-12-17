@@ -15,6 +15,7 @@ using namespace std;
 #define setd(n) cout.precision(n);cout<<fixed;
 #define endl "\n"
 /*Acronyms*/
+#define endl "\n"
 #define int long long int
 #define str string
 #define vc vector
@@ -44,7 +45,7 @@ const int MOD = 1e9+7;
 
 void solve()
 {
-    
+    cout << "hello world" << endl;
 }
 
 signed main()
