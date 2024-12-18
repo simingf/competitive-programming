@@ -15,8 +15,9 @@ using namespace std;
 #define setd(n) cout.precision(n);cout<<fixed;
 #define endl "\n"
 /*Acronyms*/
-typedef long long int64;
-#define str string
+using ll = long long;
+using ld = long double;
+using str = string;
 #define vec vector
 #define umap unordered_map
 #define PB push_back
