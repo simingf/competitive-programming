@@ -19,8 +19,8 @@ using namespace std;
 #define str string
 #define vec vector
 #define umap unordered_map
-#define PB push_back
-#define MP make_pair
+#define pb push_back
+#define mp make_pair
 #define ff first
 #define ss second
 /*Util*/
@@ -30,7 +30,7 @@ using namespace std;
 #define EACH(i,x) for(auto &i:x)
 #define SIZE(x) ((int)(x).size())
 #define ALL(x) begin(x), end(x)
-#define ALLD(x) rbegin(x), rend(x)
+#define RALL(x) rbegin(x), rend(x)
 #define gcd(a,b) __gcd(a,b)
 #define lcm(a,b) ((a)/__gcd(a,b)*(b))
 #define cdiv(a,b) ((a==0)?0:((a)-1)/(b)+1)
