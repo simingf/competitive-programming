@@ -28,6 +28,7 @@ using namespace __gnu_pbds;
 #define ss second
 /*Util*/
 #define REP(i,n) for(int i=0;i<(n);++i)
+#define REPD(i,n) for(int i=(n)-1;i>=0;--i)
 #define FOR(i,l,h) for(int i=(l);i<=(h);++i)
 #define FORD(i,h,l) for(int i=(h);i>=(l);--i)
 #define EACH(i,x) for(auto &i:x)
@@ -45,7 +46,7 @@ using namespace __gnu_pbds;
 
 void solve()
 {
-    
+
 }
 
 signed main()
